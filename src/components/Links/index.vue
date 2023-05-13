@@ -51,17 +51,17 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://cloud.mikutechnology.cn",
+    link: "https://cloud.mikutechnology.com",
   },
   {
     icon: CompactDisc,
     name: "音乐解锁",
-    link: "https://unlock-music.mikutechnology.com",
+    link: "https://unlock-music.prod.mikutechnology.com",
   },
   {
     icon: Compass,
-    name: "白给登录",
-    link: "https://tools.mikutechnology.com",
+    name: "暂未建设",
+    link: "https://api.mikutechnology.com/404.html",
   },
   {
     icon: Book,
