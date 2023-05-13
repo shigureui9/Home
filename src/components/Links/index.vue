@@ -66,7 +66,7 @@ let linksData = [
   {
     icon: Book,
     name: "导航",
-    link: "https://daohang.mikutechnology.com/",
+    link: "https://daohang.mikutechnology.com",
   },
   {
     icon: Flask,
