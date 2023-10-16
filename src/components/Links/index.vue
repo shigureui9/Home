@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Compass,
     name: "暂未建设",
-    link: "https://api.mikutechnology.com/404.html",
+    link: "https://api.mikutechnology.com",
   },
   {
     icon: Book,
@@ -71,7 +71,7 @@ let linksData = [
   {
     icon: Flask,
     name: "实验室",
-    link: "https://api.mikutechnology.com/404.html",
+    link: "https://api.mikutechnology.com",
   },
 ];
 
