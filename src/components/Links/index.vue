@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐解锁",
-    link: "https://unlock-music.prod.mikutechnology.com",
+    link: "http://unlock-music.mikutechnology.com",
   },
   {
     icon: Compass,
